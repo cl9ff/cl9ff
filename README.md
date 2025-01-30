@@ -1,6 +1,20 @@
 # 👋 Hi, I’m Artem
 
-✨ **Frontend Developer** | 🎨 **UI/UX Enthusiast** | 🚀 **Tech Explorer**
+✨ **Frontend Developer** | 🎨 **UI/UX Enthusiast** | 🚀 **Tech Explorer** | 🎓 **IT Student**.
+
+---
+
+### 🎓 **Education**
+I’m currently studying **Information Technology and Programming** at **Synergy University**. My academic journey is focused on mastering the fundamentals of software development, algorithms, and modern technologies.
+
+---
+
+### 💼 **Work Experience**
+I have been working for over a year as a **Technical Support Specialist** at **Synergy University**, where I:
+- Provide technical assistance to students and staff.
+- Troubleshoot hardware and software issues.
+- Ensure smooth operation of IT systems and infrastructure.
+- Collaborate with the IT team to implement new technologies and improve existing processes.
 
 ---
 
@@ -31,7 +45,8 @@ I'm open to collaborating on:
 
 ### 📫 **How to Reach Me**
 - **Email**: [cl9ff@yahoo.com](mailto:cl9ff@yahoo.com)
-- **GitHub**: [My GitHub Profile](https://github.com/cl9ff)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile) (замените на свою ссылку)
+- **GitHub**: [Your GitHub Profile](https://github.com/yourusername) (замените на свою ссылку)
 
 ---
 
@@ -41,17 +56,12 @@ He/Him
 ---
 
 ### ⚡ **Fun Fact**
-I graduated from a music school, accordion class 🪗
+I can solve a Rubik's Cube in under 2 minutes! 🎲
 
 ---
 
 ### 📊 **GitHub Stats**
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cl9ff&show_icons=true&theme=radical)
-
----
-
-### 🎶 **Currently Listening to**
-[![Spotify](https://spotify-now-playing-readme.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername) 
 
 ---
 
