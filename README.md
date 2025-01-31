@@ -45,8 +45,6 @@ I'm open to collaborating on:
 
 ### 📫 **How to Reach Me**
 - **Email**: [cl9ff@yahoo.com](mailto:cl9ff@yahoo.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile) (замените на свою ссылку)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername) (замените на свою ссылку)
 
 ---
 
@@ -56,7 +54,7 @@ He/Him
 ---
 
 ### ⚡ **Fun Fact**
-I can solve a Rubik's Cube in under 2 minutes! 🎲
+I graduated from music school with an accordion class 🪗
 
 ---
 
